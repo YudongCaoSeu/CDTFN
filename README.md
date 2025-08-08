@@ -1,0 +1,1 @@
+This is the code of an initial version for our Paper ‘Investigation of Bonds between Network Convolution and Time-frequency Transforms for Ex-ante Interpretable Machine Health Prognosis’, for reviewers only now.
